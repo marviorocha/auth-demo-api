@@ -2,7 +2,7 @@
 
 This is a simple API Ruby on Rails devise and JWT Auth API
 
-I have been following [this tutorial](https://enlear.academy/how-to-create-a-rails-6-api-with-devise-jwt-46fa35085e85) but did you can change for yours works! Enjoe!
+This tutorial has been based [this here](https://enlear.academy/how-to-create-a-rails-6-api-with-devise-jwt-46fa35085e85) I put some modifications, but did you can change for yours works! Enjoe!
 
 ## Requirement gems:
 
